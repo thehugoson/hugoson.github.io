@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project #2
+title: Project 2
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
