@@ -1116,18 +1116,3 @@ pre {
     display: inline-block;
   }
 }
-
-.image-container {
-  width: 180px;      /* desired box size */
-  height: 180px;
-  background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;  /* hide overflow */
-}
-
-.image-container img {
-  max-width: 100%;
-  max-height: 100%;
-}
