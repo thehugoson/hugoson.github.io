@@ -4,5 +4,5 @@ title: About me
 ---
 
 Education
-- Vanderbilt University (Computer Science B.S.)
+- Vanderbilt University (Bachelor of Science in Computer Science)
 
