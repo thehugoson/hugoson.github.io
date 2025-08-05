@@ -50,7 +50,7 @@ title-img: /assets/img/logo_image.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hokyun.son@vanderbilt.edu"
-  github: thehugoson
+  # github: thehugoson
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
